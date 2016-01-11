@@ -56,7 +56,7 @@
 
     <TextView
         android:id="@+id/displayMessage_text_view"
-        android:text="Hello. Welcome to Coffee Shop!!"
+        android:text="Hello! Welcome to Coffee Shop!!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="16dp"
